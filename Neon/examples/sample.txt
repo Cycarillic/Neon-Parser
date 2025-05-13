@@ -1,9 +1,0 @@
-#Example File for Neon!
-# The format can be anything like
-platformwood0 plat1 z0 y50 r0 x100 s1
-
-#OR
-#Like this
-platformwood1 plat2 y350 x1500 r0 s1 z0 
-
-#BOTH GIVE THE SAME OUTPUT!!
