@@ -1,0 +1,7 @@
+#This is a comment ! It is ignored by the lexer
+
+platformwood0 plat#1 x100 y10 z0 r0 s1
+
+#This can be in any format excluding the obj name and id
+platformwood0 plat#1 z0 r0 y50 s1 x1000
+#But the output will be the same
